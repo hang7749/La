@@ -13,6 +13,6 @@ return [
     |
     */
 
-    'msg' => 'Exemple Laravel internationalisation.'
+    'msg' => 'Exemple Laravel internationasdlisation.'
 
 ];
