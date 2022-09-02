@@ -13,6 +13,8 @@ return [
     |
     */
 
-    'msg' => 'Laravel Internationalization example.'
+    'msg' => 'Laravel Internationalization example.',
+    'msg2' => 'Laravel Internationalization example2.'
+
 
 ];
